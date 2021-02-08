@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+[class^="col-"]{
+  height: 150px;
+  text-align: center;
+}
+
+body .debug{
+  background-color: pink;
+  border: 1px solid black;
+  vertical-align: middle;
+}
+
+.pad{
+  padding: 10px;
+}
+
+.nested{
+  background-color: red;
+  height: 130px;
+  border: 1px solid white;
+}
+
+p{
+  margin: 65px auto;
+}
+
+.nested p{
+  margin: 55px auto;
+}
