@@ -12,7 +12,6 @@
 body .debug{
   background-color: pink;
   border: 1px solid black;
-  vertical-align: middle;
 }
 
 .pad{
@@ -25,7 +24,7 @@ body .debug{
   border: 1px solid white;
 }
 
-p{
+p {
   margin: 65px auto;
 }
 
